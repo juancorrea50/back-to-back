@@ -9,17 +9,15 @@
     <img src="assets/Logo-White.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Back To Back</h3>
 
   <p align="center">
-    project_description
+    A mobile workout app created using React Native with a Supabase hosted backend. The app allows for local groups to compete against each other using score based analytics to maintain discipline in healthy living and developing a healthier lifestyle. Users can set their own splits complete from a list of workouts. Users are also able to track their running whether for speed or stamina.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
