@@ -1,7 +1,7 @@
 {
   "expo": {
     "newArchEnabled": true,
-    "name": "back-2-back-login",
+    "name": "back-2-back",
     "slug": "snack-1e1b796c-1a4a-489d-8617-7518a74619e3",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -14,13 +14,17 @@
     },
     "scheme": "your-app-scheme",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "com.digitaldaredevils.back2back",
+      "bundleIdentifier": "com.anonymous.snack1e1b796c1a4a489d86177518a74619e3"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#ffffff",
+        "package": "com.digitaldaredevils.back2back"
+      },
+      "package": "com.anonymous.snack1e1b796c1a4a489d86177518a74619e3"
     },
     "web": {
       "favicon": "./assets/favicon.png"
