@@ -56,7 +56,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com) <!--Leave link to deployed mobile app here-->
+![Login](/assets/login.png?raw=true "login") ![home](/assets/home_screenshot.png "home")
+![Split_Editor](assets/split_editor.png "split editor") ![running screen](assets/running.png "run screen")<!--Leave link to deployed mobile app here-->
 
 Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `Juan Correa`, `back-to-back`, `juancorrea50`, `Supabase`, `juan.correa.swe@gmail.com`, `React Native`
 
