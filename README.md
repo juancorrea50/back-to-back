@@ -85,7 +85,7 @@ All images are royalty free and all credit goes to the photographers and website
 Juan Correa - https://www.linkedin.com/in/juan-correa-swe/ - juan.correa.swe@gmail.com
 
 -Contributors
-Ryan Sulligan - (insert github)
+Ryan Sulligan - https://www.linkedin.com/in/joey-suliguin-illsm25/ - https://github.com/vinbi07
 Joshua Shapiro - (insert github)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
