@@ -21,8 +21,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Login](/assets/login.png?raw=true "login") ![home](/assets/home_screenshot.png "home")
-![Split_Editor](assets/split_editor.png "split editor") ![running screen](assets/running.png "run screen")<!--Leave link to deployed mobile app here-->
+![Login](/assets/login.png?raw=true "login") 
+![home](/assets/home_screenshot.png "home")
+![Split_Editor](assets/split_editor.png "split editor")
+![running screen](assets/running.png "run screen")
 
 Back to back is a mobile workout app that allows small groups to compete against one another to achieve a higher score. Complete with badges that can be earned for fastest, strongest, etc. Complete with a guided workout tool for your splits as well as a running tracker to help calculate speed and stamina, Back to Back will help you and your group reach your fitness goals!
 
