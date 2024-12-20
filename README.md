@@ -91,14 +91,6 @@ Joshua Shapiro - (insert github)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
