@@ -59,7 +59,7 @@
 ![Login](/assets/login.png?raw=true "login") ![home](/assets/home_screenshot.png "home")
 ![Split_Editor](assets/split_editor.png "split editor") ![running screen](assets/running.png "run screen")<!--Leave link to deployed mobile app here-->
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `Juan Correa`, `back-to-back`, `juancorrea50`, `Supabase`, `juan.correa.swe@gmail.com`, `React Native`
+Back to back is a mobile workout app that allows small groups to compete against one another to achieve a higher score. Complete with badges that can be earned for fastest, strongest, etc. Complete with a guided workout tool for your splits as well as a running tracker to help calculate speed and stamina, Back to Back will help you and your group reach your fitness goals!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,21 +80,14 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+- Move to releases and download the .apk file
+- Download on any mobile device
+- Go to local files and use your mobile devices package manager to install
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Demo
-
- Head to this address for a live demo of the app:(Place address here)
+- Any Android device
+- iOS Version (Coming soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,10 +114,12 @@ All images are royalty free and all credit goes to the photographers and website
 
 <!-- CONTACT -->
 ## Contact
-
+-Personal
 Juan Correa - https://www.linkedin.com/in/juan-correa-swe/ - juan.correa.swe@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/juancorrea50/back-to-back)
+-Contributors
+Ryan Sulligan - (insert github)
+Joshua Shapiro - (insert github)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
