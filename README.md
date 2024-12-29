@@ -54,7 +54,6 @@ Back to back is a mobile workout app that allows small groups to compete against
 ### Prerequisites
 
 - Any Android device
-- iOS Version (Coming soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,7 +85,7 @@ Juan Correa - https://www.linkedin.com/in/juan-correa-swe/ - juan.correa.swe@gma
 
 -Contributors
 Ryan Sulligan - https://www.linkedin.com/in/joey-suliguin-illsm25/ - https://github.com/vinbi07
-Joshua Shapiro - (insert github)
+Joshua Shapiro - https://github.com/klaviette
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
