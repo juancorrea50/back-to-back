@@ -62,9 +62,11 @@ Back to back is a mobile workout app that allows small groups to compete against
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+-Download newest version from releases
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+-Install via android package manager
+
+-Once installed open app and create an account to experience back to back success!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
